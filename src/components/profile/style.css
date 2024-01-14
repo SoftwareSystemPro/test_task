@@ -1,0 +1,126 @@
+.profile_section {
+    padding: 120px 0;
+}
+
+.alart_text {
+    color: #006AFF;
+    font-family: "Jost";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19px;
+}
+
+.profile_btn {
+    background-color: #FE8B37 !important;
+    font-family: "Jost" !important;
+}
+
+.profile_input {
+    font-family: "Jost" !important;
+}
+
+.ant-form-item-label {
+    font-family: "Jost" !important;
+    color: #333;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.ant-tabs-tab-btn {
+    font-family: "Jost" !important;
+    color: #000 !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+}
+
+.ant-tabs-tab-btn:hover {
+    color: #000 !important;
+}
+
+.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #FE8B37 !important;
+    font-family: "Jost" !important;
+}
+
+.ant-tabs .ant-tabs-ink-bar {
+    background-color: #FE8B37 !important;
+}
+
+.ant-tabs-nav::before {
+    border: none !important;
+}
+
+.profile_title {
+    margin-bottom: 30px;
+    color: #333;
+    font-family: "Jost";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.profile_form_wrapper{
+    margin-top: 30px;
+    /* padding-bottom: 68px;
+    height: 100%; */
+}
+
+
+
+/* My announc style */
+
+.last_wrapper {
+    margin-top: 30px;
+    padding-bottom: 80px;
+    height: 100%;
+}
+
+.demo-loadmore-list {
+    min-height: 350px;
+}
+
+.card_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.last_title {
+    margin-bottom: 50px;
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.gutter-box {
+    padding: 8px 0;
+    background: #00a0e9;
+}
+
+.gutter-row>p {
+    display: flex;
+    align-items: center;
+    font-family: "Jost";
+    color: #333;
+    font-size: 14px;
+}
+
+.gutter-row>p>i {
+    margin-right: 10px;
+    color: #FE8B37;
+    font-size: 20px;
+}
+
+.ant-card-meta-title {
+    margin-bottom: 15px !important;
+}
+
+.ant-row {
+    row-gap: 10px !important;
+}

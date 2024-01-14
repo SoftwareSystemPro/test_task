@@ -1,0 +1,20 @@
+/* .ant-select-dropdown {
+    inset: 350.5px auto auto 565px !important;
+    width: 267.266px !important;
+} */
+
+.ant-picker-focused.ant-picker {
+    box-shadow: none !important;
+}
+
+
+.ant-select-selection-placeholder {
+    color: #000 !important;
+    padding: 0 !important;
+}
+
+.ant-select-arrow {
+    display: none !important;
+}
+
+

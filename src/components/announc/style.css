@@ -1,0 +1,91 @@
+.announc_section {
+    padding: 120px 0;
+}
+
+.announc_title {
+    color: #333;
+    font-family: "Jost";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+.ant-picker-panel-container,
+.ant-picker-header,
+.ant-picker-month-btn,
+.ant-picker-year-btn,
+.ant-picker-input {
+    font-family: "Jost", sans-serif !important;
+}
+
+.announc_date {
+    width: 100% !important;
+}
+
+.announc_date>.ant-picker-panel-container {
+    width: 300px !important;
+}
+
+.time_form,
+.organ_form,
+.post_form {
+    border: 1px solid rgba(51, 51, 51, 0.10);
+    padding: 35px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.organ_form {
+    height: 100%;
+}
+
+.time_form_title {
+    color: #000;
+    font-family: "Jost";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.ant-form-item-required {
+    font-family: "Jost" !important;
+    color: #333 !important;
+    font-size: 13px !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    line-height: normal !important;
+}
+
+.announc_form {
+    max-width: 100% !important;
+}
+
+.announc_select,
+.announc_timePicker,
+.announc_radio {
+    font-family: "Jost" !important;
+}
+
+.alert_test {
+    color: #006AFF;
+    font-family: "Jost";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19px;
+    margin-top: 10px;
+}
+
+.btn_form_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+}

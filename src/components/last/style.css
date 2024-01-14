@@ -1,0 +1,53 @@
+.last_section {
+    padding: 100px 0;
+}
+
+.last_wrapper {
+    margin-top: 40px;
+}
+
+.demo-loadmore-list {
+    min-height: 350px;
+}
+
+.card_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.last_title {
+    margin-bottom: 50px;
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.gutter-box {
+    padding: 8px 0;
+    background: #00a0e9;
+}
+
+.gutter-row>p {
+    display: flex;
+    align-items: center;
+    font-family: "Jost";
+    color: #333;
+    font-size: 14px;
+}
+
+.gutter-row>p>i {
+    margin-right: 10px;
+    color: #FE8B37;
+    font-size: 20px;
+}
+
+.ant-card-meta-title{
+    margin-bottom: 15px !important;
+}
+
+.ant-row {
+    row-gap: 10px !important;
+}

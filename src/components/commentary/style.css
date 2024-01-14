@@ -1,0 +1,80 @@
+.demo-loadmore-list {
+    min-height: 350px;
+}
+
+.comment_wrapper {
+    margin-top: 100px;
+}
+
+.comment_title {
+    display: flex;
+    align-items: center;
+    color: #333;
+    font-family: "Jost";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 50px;
+}
+
+.comment_title>i {
+    color: #FE8B37;
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+.chat_text {
+    color: #000;
+    font-family: "Jost";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    margin-top: 20px;
+}
+
+
+.time_p {
+    margin: 0;
+    font-size: 12px;
+    font-family: "Jost";
+}
+
+.comment_more_btn {
+    border-color: #FE8B37 !important;
+    color: #FE8B37 !important;
+    border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -ms-border-radius: 10px !important;
+    -o-border-radius: 10px !important;
+}
+
+.textArea_wrapp {
+    width: 100%;
+    display: flex;
+    align-items: top;
+    margin-bottom: 60px;
+}
+
+.avatar {
+    margin-right: 30px;
+}
+
+.textarea_box {
+    width: 100%;
+}
+
+.textareA{
+    padding: 10px !important;
+}
+
+.textareA>textarea::placeholder {
+    color: #555;
+    font-family: "Jost";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
